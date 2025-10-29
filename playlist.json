@@ -1,0 +1,94 @@
+{
+  "canciones": [
+    {
+      "titulo": "Ahora quien",
+      "artista": "CMZ",
+      "archivo": "musica/Ahora quien.mp3"
+    },
+    {
+      "titulo": "Aunque no te pueda ver",
+      "artista": "CMZ",
+      "archivo": "musica/Aunque no te pueda ver.mp3"
+    },
+    {
+      "titulo": "Como quisiera",
+      "artista": "CMZ",
+      "archivo": "musica/Como quisiera.mp3"
+    },
+    {
+      "titulo": "Cuando nadie me ve",
+      "artista": "CMZ",
+      "archivo": "musica/Cuando nadie me ve.mp3"
+    },
+    {
+      "titulo": "Eres",
+      "artista": "CMZ",
+      "archivo": "musica/Eres.mp3"
+    },
+    {
+      "titulo": "La playa",
+      "artista": "CMZ",
+      "archivo": "musica/La playa.mp3"
+    },
+    {
+      "titulo": "Luz son gravedad",
+      "artista": "CMZ",
+      "archivo": "musica/Luz son gravedad.mp3"
+    },
+    {
+      "titulo": "Me dedique a perderte",
+      "artista": "CMZ",
+      "archivo": "musica/Me dedique a perderte.mp3"
+    },
+    {
+      "titulo": "Me duele amarte",
+      "artista": "CMZ",
+      "archivo": "musica/Me duele amarte.mp3"
+    },
+    {
+      "titulo": "No me enseñaste",
+      "artista": "CMZ",
+      "archivo": "musica/No me enseñaste.mp3"
+    },
+    {
+      "titulo": "No se porque",
+      "artista": "CMZ",
+      "archivo": "musica/No se porque.mp3"
+    },
+    {
+      "titulo": "Noviembre sin ti",
+      "artista": "CMZ",
+      "archivo": "musica/Noviembre sin ti.mp3"
+    },
+    {
+      "titulo": "Que lloro",
+      "artista": "CMZ",
+      "archivo": "musica/Que lloro.mp3"
+    },
+    {
+      "titulo": "Quisiera olvidarme de ti",
+      "artista": "CMZ",
+      "archivo": "musica/Quisiera olvidarme de ti.mp3"
+    },
+    {
+      "titulo": "Si nos quedara poco tiempo",
+      "artista": "CMZ",
+      "archivo": "musica/Si nos quedara poco tiempo.mp3"
+    },
+    {
+      "titulo": "Te lo agradezco pero no",
+      "artista": "CMZ",
+      "archivo": "musica/Te lo agradezco pero no.mp3"
+    },
+    {
+      "titulo": "Un siglo sin ti",
+      "artista": "CMZ",
+      "archivo": "musica/Un siglo sin ti.mp3"
+    },
+    {
+      "titulo": "Volveras",
+      "artista": "CMZ",
+      "archivo": "musica/Volveras.mp3"
+    }
+  ]
+}
