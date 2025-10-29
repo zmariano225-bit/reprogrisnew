@@ -25,7 +25,7 @@
       "titulo": "Como quisiera",
       "artista": "Mana",
       "archivo": "musica/Como quisiera.mp3"
-3"
+
     },
  {
       "titulo": "La playa",
@@ -95,4 +95,5 @@
  
     },
 ]
+
 }
