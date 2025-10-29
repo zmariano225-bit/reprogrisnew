@@ -1,0 +1,98 @@
+{
+  "canciones": [
+  
+    {
+      "titulo": "Aunque no te pueda ver",
+      "artista": "Alex Ubago",
+      "archivo": "musica/Aunque no te pueda ver.mp3"
+    },
+    {
+      "titulo": "Quisiera olvidarme de ti",
+      "artista": "Luis Fonsi",
+      "archivo": "musica/Quisiera olvidarme de ti.mp3"
+    },
+   {
+      "titulo": "No se porque",
+      "artista": "Chayanne",
+      "archivo": "musica/No se porque.mp3"
+    },
+ {
+      "titulo": "Ahora quien",
+      "artista": "Marc Anthony",
+      "archivo": "musica/Ahora quien.mp3"
+    },
+ {
+      "titulo": "Como quisiera",
+      "artista": "Mana",
+      "archivo": "musica/Como quisiera.mp3"
+3"
+    },
+ {
+      "titulo": "La playa",
+      "artista": "La Oreja de Van Gogh",
+      "archivo": "musica/La playa.mp3"
+    },
+
+ {
+      "titulo": "Un siglo sin ti",
+      "artista": "Chayanne",
+      "archivo": "musica/Un siglo sin ti.mp3"
+    },
+ {
+      "titulo": "Noviembre sin ti",
+      "artista": "Reik",
+      "archivo": "musica/Noviembre sin ti.mp3"
+    },
+ {
+      "titulo": "No me enseñaste",
+      "artista": "Thalia",
+      "archivo": "musica/No me enseñaste.mp3"
+    },
+ {
+      "titulo": "Cuando nadie me ve",
+      "artista": "Alejandro Sanz",
+      "archivo": "musica/Cuando nadie me ve.mp3"
+    },
+ {
+      "titulo": "Luz son gravedad",
+      "artista": "Belinda",
+      "archivo": "musica/Luz son gravedad.mp3"
+    },
+ {
+      "titulo": "Volveras",
+      "artista": "Ricky Martin",
+      "archivo": "musica/Volveras.mp3"
+    },
+ {
+      "titulo": "Que lloro",
+      "artista": "Sin Bandera",
+      "archivo": "musica/Que lloro.mp3"
+    },
+ {
+      "titulo": "Me dedique a perderte",
+      "artista": "Alejandro Fernandez",
+      "archivo": "musica/Me dedique a perderte.mp3"
+    },
+ {
+      "titulo": "Me duele amarte",
+      "artista": "Reik",
+      "archivo": "musica/Me duele amarte.mp3"
+    },
+ {
+      "titulo": "Te lo agradezco pero no",
+      "artista": "Alejandro Sanz ft. Shakira",
+      "archivo": "musica/Te lo agradezco pero no.mp3"
+    },
+ {
+      "titulo": "Eres",
+      "artista": "Cafe Tacuba",
+      "archivo": "musica/Eres.mp3"
+    },
+ {
+      "titulo": "Si nos quedara poco tiempo",
+      "artista": "Chayanne",
+      "archivo": "musica/Si nos quedara poco tiempo.mp3"
+ 
+    },
+]
+}
