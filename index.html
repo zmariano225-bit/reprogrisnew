@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="theme-color" content="#2a5cb0">
+  <title>Reproductor Azul</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="player">
+      <div class="logo">CMZ</div>
+
+      <audio id="audio-player"></audio>
+
+      <!-- Visor: título + visualizador -->
+      <div class="visor">
+        <div class="song-info">
+          <div id="titulo">Selecciona una canción</div>
+          <div id="artista"></div>
+        </div>
+        <div class="visualizer-container">
+          <div class="visualizer" id="visualizer"></div>
+        </div>
+      </div>
+
+      <!-- Barra de progreso -->
+      <input type="range" id="progress" value="0" min="0" max="100" step="0.1" class="progress" />
+
+      <!-- Controles con fondo elíptico -->
+      <div class="controls-bg">
+        <div class="controls">
+          <button id="prev-btn" class="control-btn">⏮</button>
+          <button id="play-btn" class="control-btn">▶</button>
+          <button id="next-btn" class="control-btn">⏭</button>
+        </div>
+      </div>
+
+      <!-- Volumen (opcional, puedes quitarlo si no lo quieres) -->
+      <div class="volume-control">
+        <input type="range" id="volume" min="0" max="1" step="0.01" value="1" class="volume-slider" />
+      </div>
+    </div>
+
+    <!-- Playlist visible -->
+    <ul id="playlist" class="playlist"></ul>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

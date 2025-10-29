@@ -1,0 +1,98 @@
+{
+  "canciones": [
+  
+    {
+      "titulo": "Canción 1",
+      "artista": "Alex Ubago",
+      "archivo": "musica/Aunque no te pueda ver.mp3"
+    },
+    {
+      "titulo": "Canción 2",
+      "artista": "Luis Fonsi",
+      "archivo": "musica/Quisiera olvidarme de ti.mp3"
+    },
+   {
+      "titulo": "Canción 3",
+      "artista": "Chayanne",
+      "archivo": "musica/No se porque.mp3"
+    },
+ {
+      "titulo": "Canción 4",
+      "artista": "Marc Anthony",
+      "archivo": "musica/Ahora quien.mp3"
+    },
+ {
+      "titulo": "Canción 5",
+      "artista": "Mana",
+      "archivo": "musica/Como quisiera.mp3"
+3"
+    },
+ {
+      "titulo": "Canción 6",
+      "artista": "La Oreja de Van Gogh",
+      "archivo": "musica/La playa.mp3"
+    },
+
+ {
+      "titulo": "Canción 7",
+      "artista": "Chayanne",
+      "archivo": "musica/Un siglo sin ti.mp3"
+    },
+ {
+      "titulo": "Canción 8",
+      "artista": "Reik",
+      "archivo": "musica/Noviembre sin ti.mp3"
+    },
+ {
+      "titulo": "Canción 9",
+      "artista": "Thalia",
+      "archivo": "musica/No me enseñaste.mp3"
+    },
+ {
+      "titulo": "Canción 10",
+      "artista": "Alejandro Sanz",
+      "archivo": "musica/Cuando nadie me ve.mp3"
+    },
+ {
+      "titulo": "Canción 11",
+      "artista": "Belinda",
+      "archivo": "musica/Luz son gravedad.mp3"
+    },
+ {
+      "titulo": "Canción 12",
+      "artista": "Ricky Martin",
+      "archivo": "musica/Volveras.mp3"
+    },
+ {
+      "titulo": "Canción 13",
+      "artista": "Sin Bandera",
+      "archivo": "musica/Que lloro.mp3"
+    },
+ {
+      "titulo": "Canción 14",
+      "artista": "Alejandro Fernandez",
+      "archivo": "musica/Me dedique a perderte.mp3"
+    },
+ {
+      "titulo": "Canción 15",
+      "artista": "Reik",
+      "archivo": "musica/Me duele amarte.mp3"
+    },
+ {
+      "titulo": "Canción 16",
+      "artista": "Alejandro Sanz ft. Shakira",
+      "archivo": "musica/Te lo agradezco pero no.mp3"
+    },
+ {
+      "titulo": "Canción 17",
+      "artista": "Cafe Tacuba",
+      "archivo": "musica/Eres.mp3"
+    },
+ {
+      "titulo": "Canción 18",
+      "artista": "Chayanne",
+      "archivo": "musica/Si nos quedara poco tiempo.mp3"
+ 
+    },
+]
+}
